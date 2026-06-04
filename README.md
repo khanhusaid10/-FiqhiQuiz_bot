@@ -182,7 +182,7 @@ Commit and push both files to your fork before continuing.
 | `API_ID` | Your Telegram API ID |
 | `API_HASH` | Your Telegram API Hash |
 | `BOT_TOKEN` | Token for the Pyrogram bot (main.py) |
-| `BOT_TOKEN_2` | Token for the PTB scheduler bot (bot.py) |
+| `BOT_TOKEN_2` | Token for the PTB scheduler bot (same bot token) (bot.py) |
 | `MONGO_URI` | Primary MongoDB Atlas connection string |
 | `MONGO_URI_2` | Secondary MongoDB connection string |
 | `MONGO_URIX` | Async quizzes collection MongoDB URI |
